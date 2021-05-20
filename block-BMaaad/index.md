@@ -5,6 +5,11 @@ Write command to
 - List collections from a database.
 - create a new collection in your country database which you created recently.
 
+```js
+//show dbs
+//use india
+```
+
 Write code to:-
 
 - crate a database named `weather`
@@ -12,3 +17,7 @@ Write code to:-
 - create a simple collection named `humidity`
 - check whether `temperature` collection is capped or not ?
 - Delete `humidity` collection and then the entire database(weather).
+
+```js
+//use weather
+```
